@@ -3,6 +3,20 @@
 
 This repository contains a Python script that demonstrates how to perform face swapping using the InsightFace library and OpenCV. With this code, you can replace faces in an image with faces from another image.
 
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="https://github.com/warriorwizard/FaceSwap/blob/main/img.jpg" alt="Image 1" width="300" />
+    <p>Original Image</p>
+  </div>
+  <div>
+    <img src="https://github.com/warriorwizard/FaceSwap/blob/main/img2.png" alt="Image 2" width="300" />
+    <p>Altered Image</p>
+  </div>
+</div>
+
+
+
 ## Dependencies
 
 Before running the code, make sure you have the following dependencies installed:
