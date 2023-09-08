@@ -16,8 +16,10 @@ This repository contains a Python script that demonstrates how to perform face s
 </div> -->
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/warriorwizard/FaceSwap/blob/main/img.jpg" alt="Original Image" width="300" style="margin-right: 10px;" />
+  <img src="https://github.com/warriorwizard/FaceSwap/blob/main/img.jpg" alt="Original Image" width="300" style="margin-right: 100px;" />
+  <p>Original Image</p>
   <img src="https://github.com/warriorwizard/FaceSwap/blob/main/output.png" alt="Altered Image" width="300" />
+  <p>Altered Image</p>
 </div>
 
 
